@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">自寻</string>
+    <string name="start_line">太过轻易，难成大道</string>
+
+    <string name="menu_main">主页</string>
+    <string name="menu_cargo">干货</string>
+    <string name="menu_find">发现</string>
+    <string name="menu_me">我的</string>
+</resources>
